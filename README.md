@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lola Yaswanthi Pavuluri</h1>
-<h3 align="center">I Am passionate at Software Enginner</h3>
+<h3 align="center">I Am passionate at Software Enginner role</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavulurilolayaswanthi&label=Profile%20views&color=0e75b6&style=flat" alt="pavulurilolayaswanthi" /> </p>
 
